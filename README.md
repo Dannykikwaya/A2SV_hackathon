@@ -7,5 +7,5 @@ And else our team ie composed by:
 <ul>
 	<li><b>KIKWAYA KASINDI Danny</b> us a team lead</li>
 	<li><b>MULISYA Faith</b></li>
-	<li><b>ADONIS Rwabira</b></li>\
+	<li><b>ADONIS Rwabira</b></li>
 </ul>
